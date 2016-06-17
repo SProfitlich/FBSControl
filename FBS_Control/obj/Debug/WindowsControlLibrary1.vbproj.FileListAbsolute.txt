@@ -1,0 +1,3 @@
+G:\WindowsControlLibrary1\WindowsControlLibrary1\obj\Debug\WindowsControlLibrary1.Resources.resources
+G:\WindowsControlLibrary1\WindowsControlLibrary1\obj\Debug\WindowsControlLibrary1.UserControl1.resources
+G:\WindowsControlLibrary1\WindowsControlLibrary1\obj\Debug\WindowsControlLibrary1.vbproj.GenerateResource.Cache
